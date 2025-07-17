@@ -7,23 +7,12 @@ The business wants to optimize operations, improve customer experience, and incr
 ## PROBLEM STATEMENT
 The store doesn’t have a clear idea about :
 
-which products sell the most,
-customers' preference,
-which items bring in the most profit, and
-where things are going wrong in delivery or operations.
-Because of this, they are missing chances to earn more, losing customers, and making poor business decisions.
+1.which products sell the most,
+2.customers' preference,
+3.which items bring in the most profit, and
+4.where things are going wrong in delivery or operations.
+5.Because of this, they are missing chances to earn more, losing customers, and making poor business decisions.
 
 ## SOLUTION
 They need proper reports and simple insights to understand their sales, customers, and product performance better.
 
-## BUSINESS PROBLEMS
-What are the top 5 most selling products by quantity?
-Which products are most frequently canceled?
-What time of the day has the highest number of purchases?
-Who are the top 5 highest spending customers?
-Which product categories generate the highest revenue?
-What is the return/cancellation rate per product category?
-What is the most preferred payment mode?
-How does age group affect purchasing behavior?
-What’s the monthly sales trend?
-Are certain genders buying more specific product categories?

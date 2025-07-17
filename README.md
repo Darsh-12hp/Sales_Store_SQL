@@ -16,3 +16,4 @@ The store doesn’t have a clear idea about :
 ## SOLUTION
 They need proper reports and simple insights to understand their sales, customers, and product performance better.
 
+<img width="797" height="619" alt="image" src="https://github.com/user-attachments/assets/e85681a6-bf15-4f53-be70-19706fca54d5" />
